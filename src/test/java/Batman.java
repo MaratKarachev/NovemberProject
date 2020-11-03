@@ -1,6 +1,7 @@
 public class Batman {
 
     public static void main(String[] args) {
-        System.out.println("I will cathc you Joker");
+        System.out.println("I will catch you Joker");
+        // Yes he will catch him
     }
 }
